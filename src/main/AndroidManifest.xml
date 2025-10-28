@@ -15,7 +15,7 @@
 
         <!-- MainActivity - Tela Principal (Lista de Alunos) -->
         <activity
-            android:name=".MainActivity"
+            android:name=".SearchActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,11 +27,11 @@
         <activity
             android:name=".ProfileActivity"
             android:exported="false"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".SearchActivity">
             <!-- Botão de voltar automático -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value=".SearchActivity" />
         </activity>
 
     </application>
