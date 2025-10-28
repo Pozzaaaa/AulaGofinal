@@ -248,7 +248,8 @@
                         android:background="@drawable/rounded_button_bg"
                         android:textAllCaps="false"
                         android:textStyle="bold"
-                        android:elevation="2dp" />
+                        android:elevation="2dp"
+                        style="@style/BlueButton"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -430,7 +431,8 @@
                         android:background="@drawable/rounded_button_bg"
                         android:textAllCaps="false"
                         android:textStyle="bold"
-                        android:elevation="2dp" />
+                        android:elevation="2dp"
+                        style="@style/BlueButton"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -612,7 +614,8 @@
                         android:background="@drawable/rounded_button_bg"
                         android:textAllCaps="false"
                         android:textStyle="bold"
-                        android:elevation="2dp" />
+                        android:elevation="2dp"
+                        style="@style/BlueButton"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -794,7 +797,8 @@
                         android:background="@drawable/rounded_button_bg"
                         android:textAllCaps="false"
                         android:textStyle="bold"
-                        android:elevation="2dp" />
+                        android:elevation="2dp"
+                        style="@style/BlueButton"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
